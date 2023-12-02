@@ -71,10 +71,11 @@ DELETE：ファイルを削除する
 
 ## JSONを使ってデータを表現  
 以下は、R.Macbookというコンピュータ名のスペックを表したもの
+
 ```json
-{ 
-"name": "R.Mackbook",
-"chip": "Apple M1",
-"memory":16
+{
+   "name":"R.Mackbook",
+   "chip":"Apple M1",
+   "memory":16
 }
 ```
